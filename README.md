@@ -1,4 +1,5 @@
-# REAL1-GC.3135 / DEVE1-GC.3135: Real Estate Data Science
+# REAL1-GC.3135 / DEVE1-GC.3135: 
+# Real Estate Data Science
 
 This repository contains Jupyter notebooks to be rendered by students for REAL1-GC.3135: Real Estate Data Science.  
 
