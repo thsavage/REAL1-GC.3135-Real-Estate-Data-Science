@@ -5,4 +5,4 @@ This repository contains Jupyter notebooks to be rendered by students of Real Es
 
 Please render using this [link](https://nbviewer.jupyter.org) by copying and pasting the URL for the notebooks.
 
-R Notebooks will be distributed through NYU Classes.
+R Notebooks for each class will be distributed through NYU Classes.
